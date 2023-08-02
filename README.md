@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Redux , API Hacking ,GraphQL**
 
-- 👨‍💻 All of my projects are available at [krishanthan4@github.io](krishanthan4@github.io)
+- 👨‍💻 All of my projects are available at [krishanthan4.github.io](krishanthan4.github.io)
 
 - 💬 Ask me about **React, NextJS, ElectronJS, React Native, Typescript, Java**
 
