@@ -1,4 +1,4 @@
-[![MasterHead]](https://www-file.huawei.com/-/media/corp2020/media-center/image/transform/issue1/9-banner-pc.jpg)
+[![MasterHead](https://www-file.huawei.com/-/media/corp2020/media-center/image/transform/issue1/9-banner-pc.jpg)](https://krishanthan4.github.io)
 <h1 align="center">Hi 👋, I'm R.Krishanthan</h1>
 <h3 align="center">A passionate Software Engineer And A Cybersecurity Enthusiast from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/software-development-programming-is-abstract-idea-top-view-laptop-s-screen-showing-business-icons-programming-languages-coding-fragments-generative-ai_28914-16801.jpg">
@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [krishanthan4@github.io](krishanthan4@github.io)
 
-- 💬 Ask me about **React,NextJS,Tailwindcss,React Native,Typescript,Java**
+- 💬 Ask me about **React, NextJS, ElectronJS, React Native, Typescript, Java**
 
 - 📫 How to reach me **krishanthan2022.4.4@gmail.com**
 
-- ⚡ Fun fact **I Learn new Tech stacks on my free time**
+- ⚡ Interesting fact **I Learn new Tech stacks and Cybersecurity on my free time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
