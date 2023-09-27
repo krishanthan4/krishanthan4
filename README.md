@@ -26,3 +26,15 @@
 - [Download Any Hacking Books For Free](https://www.yeahhub.com/biggest-hacking-security-ebooks-collection-free-download/)
 - [API Security](https://www.apisecuniversity.com/courses/api-security-fundamentals)
 - [CEH V11](https://mega.nz/folder/mOQTSCQS#NhXNE3XlL6fkGun83Yjwcw)
+- [Game Hacking](https://guidedhacking.com/)
+
+# Quick Roadmap for Hacking 
+- pick up what you interested in first (Web Hacking ,Network Hacking ,Malware Analysing , Game Hacking , Hardware Level Hacking ,etc.).
+- learn the fundementals and don't skip it.
+- ![image](https://github.com/krishanthan4/krishanthan4/assets/122454062/f982a7d0-b453-4f15-b1e9-f09c91bc302a)
+- This will take time and it require lots of Hard work .But it's ok .Do it
+- after you feel Im good to go ,then start practise that in Tryhackme OR Hackthebox.
+- Target for a Certificate like PJPT,EJPT,PNPT,OSCP ,etc.
+- Study and Get the cert.
+- Hmm. you know what you want to do now .Apply for a Job or Do Freelancing :)
+
