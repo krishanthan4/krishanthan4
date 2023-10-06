@@ -41,3 +41,18 @@
 - Study and Get the cert.
 - Hmm. you know what you want to do now .Apply for a Job or Do Freelancing :)
 
+# My Hacking Tool List
+
+- nmap
+- rustscan
+- FFUF
+- gobuster
+- burpsuite
+- ncat
+- OWASP ZAP
+- metasploit
+- sqlmap
+- exploitdb
+- dirsearch
+- amass
+- sublist3r
