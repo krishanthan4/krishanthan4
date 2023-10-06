@@ -23,8 +23,7 @@
 - [TCM Security Courses](https://academy.tcm-sec.com/courses/)
 - [Portswigger Academy - for Web Security Learning and Practise](https://portswigger.net)
 - [Python For Hacking](https://mega.nz/folder/vTgRBCBQ#-NcoMXnPAoQ1YnT7ywpwWw/folder/eCwx0SpR)
-- [Download Any Hacking Courses For Free](https://www.coursedl.org/0:/TCM%20Sec/Open-Source%20Intelligence%20(OSINT)%20Fundamentals.zip?a=view)
-- [Download Any Hacking Courses For Free (2)](https://hacksnation.com/)
+- [Download Any Hacking Courses For Free](https://hacksnation.com/)
 - [Download Any Hacking Books For Free](https://www.yeahhub.com/biggest-hacking-security-ebooks-collection-free-download/)
 - [API Security](https://www.apisecuniversity.com/courses/api-security-fundamentals)
 - [Game Hacking](https://guidedhacking.com/)
@@ -56,3 +55,5 @@
 - dirsearch
 - amass
 - sublist3r
+- hydra
+- nuclei
