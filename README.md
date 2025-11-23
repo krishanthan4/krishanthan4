@@ -56,15 +56,6 @@ Although his focus has shifted toward software engineering, cybersecurity remain
 </p>
 
 
-#### 🖥️ Other Tools & Concepts
-- **Version Control:** Git, GitHub  
-- **Project Management:** Notion, Jira  
-- **Server / Deployment:** Nginx, Render, Vercel, Netlify  
-- **UI/UX:** Figma, Tailwind CSS  
-- **Others:** API Integration, RESTful Design, Agile Development  
-
----
-
 ### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krishanthan4&show_icons=true&theme=radical" alt="GitHub stats" height="180"/>
@@ -73,7 +64,7 @@ Although his focus has shifted toward software engineering, cybersecurity remain
 
 ---
 
-### 🌐 Connect
+### Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/ramakrishnan-krishanthan-8a6864241" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>
