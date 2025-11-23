@@ -32,13 +32,12 @@ Although his focus has shifted toward software engineering, cybersecurity remain
 
 <p align="left">
   <!-- Frontend & Mobile -->
-  <strong>Frontend & Mobile:</strong>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,expo,flutter,bootstrap,zustand" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,flutter,bootstrap,zustand" />
 </p>
 
 <p align="left">
   <!-- Backend & Frameworks -->
-  <img src="https://skillicons.dev/icons?i=hibernate,express,javaee,prisma,nodejs" />
+  <img src="https://skillicons.dev/icons?i=hibernate,express,prisma,nodejs" />
 </p>
 
 <p align="left">
