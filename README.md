@@ -27,37 +27,32 @@ Although his focus has shifted toward software engineering, cybersecurity remain
 #### Languages, Frameworks & Libraries
 <p align="left">
   <!-- Programming Languages -->
-  <strong>Programming Languages:</strong>
   <img src="https://skillicons.dev/icons?i=java,js,ts,python,php" />
 </p>
 
 <p align="left">
   <!-- Frontend & Mobile -->
   <strong>Frontend & Mobile:</strong>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,reactnative,flutter,bootstrap,zustand" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,expo,flutter,bootstrap,zustand" />
 </p>
 
 <p align="left">
   <!-- Backend & Frameworks -->
-  <strong>Backend & Frameworks:</strong>
-  <img src="https://skillicons.dev/icons?i=hibernate,express,jakarta,prisma,nodejs,spring" />
+  <img src="https://skillicons.dev/icons?i=hibernate,express,javaee,prisma,nodejs" />
 </p>
 
 <p align="left">
   <!-- Databases -->
-  <strong>Databases:</strong>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase" />
 </p>
 
 <p align="left">
   <!-- DevOps & Deployment -->
-  <strong>DevOps & Deployment:</strong>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions" />
 </p>
 
 <p align="left">
   <!-- Tools & IDEs -->
-  <strong>Tools & IDEs:</strong>
   <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,git,github,postman,vim,neovim,linux" />
 </p>
 
