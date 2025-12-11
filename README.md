@@ -1,5 +1,5 @@
 <h1 align="center">R. Krishanthan</h1>
-<h3 align="center">Software Developer | Web & Mobile Development | Helping Businesses Build an Online Presence | Freelance Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 R. Krishanthan is a passionate **Software Developer** from Sri Lanka who enjoys building real-world applications and exploring new technologies across **web, mobile, and desktop** platforms.  
 He began his development journey right after school and is currently pursuing his **Software Engineering degree** awarded by **IIC University of Technology** through the **Java Institute for Advanced Technology**.
@@ -27,7 +27,7 @@ Although his focus has shifted toward software engineering, cybersecurity remain
 #### Languages, Frameworks & Libraries
 <p align="left">
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,php" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,php" />
 </p>
 
 <p align="left">
@@ -48,18 +48,6 @@ Although his focus has shifted toward software engineering, cybersecurity remain
 <p align="left">
   <!-- DevOps & Deployment -->
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions" />
-</p>
-
-<p align="left">
-  <!-- Tools & IDEs -->
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,git,github,postman,vim,neovim,linux" />
-</p>
-
-
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishanthan4&show_icons=true&theme=radical" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishanthan4&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
 
 ---
