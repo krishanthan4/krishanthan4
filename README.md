@@ -1,3 +1,21 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hi+there!+👋+I'm+Krishanthan;Software+Developer;Full-Stack+Developer+💻;Mobile+App+Developer+📱;" alt="Typing Animation" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=&fontSize=0&animation=twinkling"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=24&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=50&lines=Building+Tomorrow's+Solutions+Today!;Passionate+About+Clean+Code+%26+Innovation;Let's+Create+Something+Amazing!" alt="Subtitle Animation" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=krishanthan4&label=Profile%20Views&color=00d9ff&style=for-the-badge&animation=grow" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=000000&color=00d9ff&animation=pulse" />
+</div>
+
+
 <h1 align="center">R. Krishanthan</h1>
 <h3 align="center">Software Developer</h3>
 
@@ -61,3 +79,30 @@ Although his focus has shifted toward software engineering, cybersecurity remain
     <img src="https://skillicons.dev/icons?i=github" width="40" height="40"/>
   </a>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=ffffff&animation=twinkling"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+visiting+my+profile!+🙏;Let's+connect+and+build+together!+🤝;Always+open+to+new+opportunities!+🚀" alt="Footer Animation" />
+  <br><br>
+  
+  <a href="https://github.com/krishanthan4">
+    <img src="https://img.shields.io/github/followers/LaSan99?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=00d9ff" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/krishanthan4?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View%20All-4caf50?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="View Repositories" />
+  </a>
+  <a href="https://github.com/krishanthan4">
+    <img src="https://img.shields.io/badge/Profile-Visit%20GitHub-ff6b6b?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Visit GitHub Profile" />
+  </a>
+  
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=divider"/>
+  <h3>Ready to collaborate on your next big project!</h3>
+</div>
