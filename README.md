@@ -6,10 +6,6 @@
  <h3 align="center">Freelance Software Engineer | Mobile Devleoper | Full Stack Developer</h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=24&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=50&lines=Building+My+Own+Ideas;Passionate+About+Technologies;" alt="Subtitle Animation" />
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=krishanthan4&label=Profile%20Views&color=00d9ff&style=for-the-badge&animation=grow" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=000000&color=00d9ff&animation=pulse" />
 </div>
@@ -33,13 +29,13 @@ He’s comfortable working with a wide range of technologies, learning and adapt
   </blockquote>
 </div><br/>
 
-### 🔐 Cybersecurity Background
+### Cybersecurity Background
 
 Before focusing fully on software development, Krishanthan explored **cybersecurity** through platforms like **TryHackMe** and **HackTheBox**, where he practiced and learned about web and system security fundamentals.  
 Although his focus has shifted toward software engineering, cybersecurity remains one of his strong interests.
 <br/>
 
-### 🛠 Tech Stack
+### Tech Stack
 
 #### Languages, Frameworks & Libraries
 <p align="left">
