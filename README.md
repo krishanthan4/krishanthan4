@@ -1,3 +1,5 @@
+<img width="1400" height="292" alt="Github Banner" src="https://github.com/user-attachments/assets/53504250-b5d6-48c6-95d2-e0fa4d3dee93" />
+
 ## > whoami
 
 Krishanthan is a software engineer currently working as a freelance developer. He has worked with multiple clients, and he loves working on exciting projects. He also builds software to solve his own problems.
