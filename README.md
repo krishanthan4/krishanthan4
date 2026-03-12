@@ -4,11 +4,11 @@
 
 Krishanthan is a software engineer currently working as a freelance developer. He has worked with multiple clients, and he loves working on exciting projects. He also builds software to solve his own problems.
 
-He has a background in cybersecurity, which enables him to approach projects with a security-first mindset. <a href="https://krish.tech">see more</a>
+He has a background in cybersecurity, which enables him to approach projects with a security-first mindset <a href="https://krish.tech" style="font-style: italic;">see more...</a>
 
 ## > cat story.txt | grep "skills"
 
-TypeScript, JavaScript, Java, Dart, MySQL, MongoDB, PostgreSQL, SQLite, Firebase Firestore, Hibernate, Prisma, React Native, Expo, Next.js, Flutter, Zustand, Express.js, Android (Java), Jakarta EE
+TypeScript, JavaScript, Java, Dart, MySQL, MongoDB, PostgreSQL, SQLite, Firebase Firestore, Hibernate, Prisma, React Native, Expo, Next.js, Flutter, Zustand, Express.js, Android (Java), Jakarta EE, Docker, Kubernetes, CI / CD, Linux, Git
 
 ## > cat story.txt | grep "hobbies"
 
@@ -23,4 +23,4 @@ TypeScript, JavaScript, Java, Dart, MySQL, MongoDB, PostgreSQL, SQLite, Firebase
 
 He is active on LinkedIn, send him a message.
 
-* <a href="mailto:krishanthan4@outlook.com">email</a> | <a href="https://www.linkedin.com/in/rkrishanthan">LinkedIn</a>
+* <a href="mailto:krishanthan4@outlook.com">&#9993; email</a> | <a href="https://www.linkedin.com/in/rkrishanthan">&#64; LinkedIn</a>
