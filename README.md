@@ -4,7 +4,7 @@
 
 Krishanthan is a software engineer currently working as a freelance developer. He has worked with multiple clients, and he loves working on exciting projects. He also builds software to solve his own problems.
 
-He has a background in cybersecurity, which enables him to approach projects with a security-first mindset.<a href="https://krish.tech">see more...</a>
+He has a background in cybersecurity, which enables him to approach projects with a security-first mindset.<a href="https://krish4.tech">see more...</a>
 
 ## > cd skills | ls
 
@@ -12,7 +12,7 @@ TypeScript, JavaScript, Java, Dart, MySQL, MongoDB, PostgreSQL, SQLite, Firebase
 
 ## > cat projects.txt
 
-* Check the pinned section below, otherwise → <a href="https://krish.tech#projects">see all projects</a>
+* Check the pinned section below, otherwise → <a href="https://krish4.tech#projects">see all projects</a>
 
 ## > cat story.txt | grep "contact"
 
