@@ -6,15 +6,14 @@ Krishanthan is a software engineer currently working as a freelance developer. H
 
 He has a background in cybersecurity, which enables him to approach projects with a security-first mindset.<a href="https://krish4.tech">see more...</a>
 
-```bash
-cd skills | ls
-```
+### > cd skills | ls
+
 TypeScript, JavaScript, Java, Dart, MySQL, MongoDB, PostgreSQL, SQLite, Firebase Firestore, Hibernate, Prisma, React Native, Expo, Next.js, Flutter, Zustand, Express.js, Android (Java), Jakarta EE, Docker, Kubernetes, CI / CD, Linux, Git
 
-## > cat projects.txt
+### > cat projects.txt
 
 * Check the pinned section below, otherwise → <a href="https://krish4.tech#projects">see all projects</a>
 
-## > cat story.txt | grep "contact"
+### > cat story.txt | grep "contact"
 
 * &#9993; <a href="mailto:krishanthan4@outlook.com">email</a> | &#64; <a href="https://www.linkedin.com/in/rkrishanthan">LinkedIn</a>
